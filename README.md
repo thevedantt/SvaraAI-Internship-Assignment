@@ -94,7 +94,7 @@ For production, the Calibrated SGDClassifier is recommended:
 Wraps the DistilBERT model in a Flask service with a `/predict` endpoint and optional web UI.
 ### Example Output
 
-![Web UI Output](SvaraAI-Internship-Assignment/PARTB-SVARAAI/output.png)
+![Web UI Output](PARTB-SVARAAI/output.png)
 
 ### API
 
