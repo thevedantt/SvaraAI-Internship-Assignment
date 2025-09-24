@@ -7,7 +7,11 @@ This repository contains the solution for the SvaraAI Internship Assignment:
 ## Part B: Deployment as a Flask API with optional web UI
 
 ---
+**Note:** There was an error while loading the Jupyter notebook in some environments.  
+You can directly run the notebook here on Google Colab:  
+👉 [Open in Colab](https://colab.research.google.com/drive/1zVcOvLWE_-7hH3BWzUYuWS8eHI08hy1w?usp=sharing)
 
+---
 ## 🚀 Part A — Reply Classification Pipeline
 
 The pipeline is implemented in a Google Colab notebook.
