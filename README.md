@@ -92,6 +92,9 @@ For production, the Calibrated SGDClassifier is recommended:
 ## 🖥️ Part B — Reply Sentiment Classifier API
 
 Wraps the DistilBERT model in a Flask service with a `/predict` endpoint and optional web UI.
+### Example Output
+
+![Web UI Output](SvaraAI-Internship-Assignment/PARTB-SVARAAI/output.png)
 
 ### API
 
